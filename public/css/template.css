@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding:0px;
+    /*font-family: sans-serif;*/
+}
+
+.image{
+    margin-top: 10px;
+    width: 180px;
+    height: 70px;
+}
+
+
+.nave#image{
+    /*display: table ;*/
+    /*margin:auto;*/
+    -webkit-transition: margin-left .5s;
+}
+
+img#image{
+    /*float: left;*/
+    /*display: block;*/
+    margin-left: 30px;
+    margin-top: 10px;
+    -webkit-transition: width .5s, heigth .5s, margin-right .5s, mrgin-top .5s;
+}
+
+
+
+/*.col-menu{*/
+    /*margin-top: 60px;*/
+/*}*/
+
+/*.col-menu-sm{*/
+    /*margin-top: 10px;*/
+/*}*/
+
+
+
+/*---------------------teste-----------*/
+
+#topConteudo{
+    padding: 0px;
+}
+
+.conteudo-title{
+    margin-top: 10px;
+    color: #f9f9f9;
+    /*border: 1px solid;*/
+}
+
+.panel-default{
+    margin-bottom: 0px;
+    border-top-color: #000000;
+    border-left-color: #000000;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    /*width: 100%;*/
+}
+
+.footer{
+    font-size: 0.9em;
+    height: 80px;
+    background-color: #244C66;
+    margin-bottom: 0px
+}
+
+.footer p{
+    color: rgba(241, 241, 241, 0.84);
+}
+.panel-default .panel-heading{
+    height: 60px;
+    background-color: #244c66;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+
+.navbar-outros{
+    /*padding: 0px;*/
+    margin: 0px;
+    /*background-color: #00AA88;  */
+    /*background-color: #fcfcfc;*/
+    border-left:none;
+    border-bottom:none;
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d2e9f2+2,e3f4fc+91 */
+    background: rgb(210,233,242); /* Old browsers */
+    background: -moz-linear-gradient(top,  rgba(210,233,242,1) 2%, rgba(227,244,252,1) 91%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  rgba(210,233,242,1) 2%,rgba(227,244,252,1) 91%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  rgba(210,233,242,1) 2%,rgba(227,244,252,1) 91%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d2e9f2', endColorstr='#e3f4fc',GradientType=0 ); /* IE6-9 */
+
+
+
+
+
+}
+
+.menus{
+    /*position: absolute;*/
+    top:0px;
+    /*left: 17px;*/
+    margin-right: 0px;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    width: 500px;
+    color: #2E5067;
+        /*height: 65px;*/
+    /*border: 1px solid;*/
+}
+
+.menus a{
+    color: #0B6F89;
+}
+
+.container-slide{
+    margin: 0px;
+    padding:0px;
+}
+
+
+.carousel-control.left, .carousel-control.right {
+    background-image:none !important;
+    /*filter:none !important;*/
+    opacity: 0.3;
+}
+
+.carousel-control:hover {
+    opacity:1;
+}

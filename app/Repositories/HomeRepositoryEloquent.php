@@ -1,0 +1,36 @@
+<?php
+
+namespace App\Repositories;
+
+use Prettus\Repository\Eloquent\BaseRepository;
+use Prettus\Repository\Criteria\RequestCriteria;
+use App\Repositories\HomeRepository;
+use App\Entities\Home;
+use App\Validators\HomeValidator;
+
+/**
+ * Class HomeRepositoryEloquent
+ * @package namespace App\Repositories;
+ */
+class HomeRepositoryEloquent extends BaseRepository implements HomeRepository
+{
+    /**
+     * Specify Model class name
+     *
+     * @return string
+     */
+    public function model()
+    {
+        return Home::class;
+    }
+
+    
+
+    /**
+     * Boot up the repository, pushing criteria
+     */
+    public function boot()
+    {
+        $this->pushCriteria(app(RequestCriteria::class));
+    }
+}
