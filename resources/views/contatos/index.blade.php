@@ -26,7 +26,7 @@
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-md-14 text-center">
-                            <h4 style="font-weight: bold; color: #244C66;">Fale Cononosco</h4>
+                            <h4 style="font-weight: bold; color: #244C66;">Fale Conosco</h4>
                         </div>
                     </div>
                     <div class="row">
@@ -44,9 +44,9 @@
                     <div class="row">
                         <div class="col-md-14">
                             <ul class="list-unstyled">
-                                <li><i class="glyphicon glyphicon-map-marker"></i><strong>Endereço: </strong>Setor Residencial Norte A, Q.6 Conj. 6H Casa 27 <br> 73340-608 <br> Planaltina - DF</li>
-                                <li><i class="glyphicon glyphicon-earphone"></i><strong>Telefone:</strong>  (17) 3219-9595</li>
-                                <li><i class="glyphicon glyphicon-envelope"></i><strong>E-mail:</strong> <a href="mailto:atendimento@epexparques.com.br">atendimento@raparques.com.br</a></li>
+                                <li><i class="glyphicon glyphicon-map-marker"></i><strong>Endereço: </strong>Setor Residencial Norte A, Q.6 Conj. 6H Casa 21 <br> 73340-608 <br> Planaltina - DF</li>
+                                <li><i class="glyphicon glyphicon-earphone"></i><strong>Telefone:</strong>  (61) 99238-8937</li>
+                                <li><i class="glyphicon glyphicon-envelope"></i><strong>E-mail:</strong> <a href="mailto:umdiano@gmail.com.br">umdiano@gmail.com.br</a></li>
                             </ul>
 
                             <hr />
