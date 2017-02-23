@@ -12,7 +12,7 @@
 @section('conteudo')
 
     <div class="container">
-    <h1 style="margin-bottom: 10px; color: #244C66;">Orçamento Playground</h1>
+    <h1 style="margin-bottom: 20px; margin-top: 40px; color: #244C66;">ORÇAMENTO PLAYGROUND</h1>
         <form name="form" class="" role="form" method="post" action="{{route('orcamento.store')}}">
 
             <div class="space">
