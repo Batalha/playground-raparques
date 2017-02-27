@@ -64,7 +64,8 @@
                     <div class="form-group col-md-6 {{$errors->has('valor')? 'has-error':''}}" >
                         <select class="form-control" name="valor">
                             <option value="">Valor Aproximado do Investimento</option>
-                            <option value="R$ 5.000">Até R$ 5.000</option>
+                            <option value="R$ 500 a 2000">De R$ 500 a 2.000</option>
+                            <option value="R$ 2000 a 5.000">De R$ 2.000 a 5.000</option>
                             <option value="R$ 5.000 a 10.000">De R$ 5.000 a 10.000</option>
                             <option value="R$ 10.000 a 15.000">De R$ 10.000 a 15.000</option>
                             <option value="R$ 15.000 a 20.000">De R$ 15.000 a 20.000</option>
