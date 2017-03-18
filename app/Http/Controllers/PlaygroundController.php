@@ -10,6 +10,7 @@ class PlaygroundController extends Controller
     public function index(){
 
         $gallery = [
+
             0 => '/imagens/playground/play1.jpg',
             1 => '/imagens/playground/play2.jpg',
             2 => '/imagens/playground/play3.jpg',
@@ -43,6 +44,7 @@ class PlaygroundController extends Controller
             29 => '/imagens/playground/play30.jpg',
             30 => '/imagens/playground/play31.jpg',
             31 => '/imagens/playground/play32.jpg',
+            33 => '/imagens/playground/play33.jpg',
         ];
 
         return view('playground.index', compact('gallery'));
