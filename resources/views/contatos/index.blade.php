@@ -46,14 +46,14 @@
                             <ul class="list-unstyled">
                                 <li><i class="glyphicon glyphicon-map-marker"></i><strong>Endereço: </strong>Setor Residencial Norte A, Q.6 Conj. 6H Casa 21 <br> 73340-608 <br> Planaltina - DF</li>
                                 <li><i class="glyphicon glyphicon-earphone"></i><strong>Telefone:</strong>  (61) 99238-8937</li>
-                                <li><i class="glyphicon glyphicon-envelope"></i><strong>E-mail:</strong> <a href="mailto:umdiano@gmail.com.br">umdiano@gmail.com.br</a></li>
+                                <li><i class="glyphicon glyphicon-envelope"></i><strong>E-mail:</strong> <a href="mailto:umdiano@gmail.com.br">umdiano@gmail.com</a></li>
                             </ul>
 
                             <hr />
 
-                            <h4>Horário de <strong>Atendimento</strong></h4>
+                            <h4><strong>Atendimento</strong></h4>
                             <ul class="list-unstyled">
-                                <li><i class="fa fa-time"></i>Seg á Sex - 08:00 às 18:00</li>
+                                <li><i class="fa fa-time"></i>Segunda á Domingo - Qualquer Horario!</li>
 
                             </ul>
 
