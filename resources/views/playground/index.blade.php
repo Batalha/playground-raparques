@@ -16,14 +16,14 @@
                 </div>
             </div>
             <div class="row" style="margin-top: 30px;">
-                @foreach($gallery as $key=>$imagens)
+                @foreach($imagens as $key=>$imagen)
                     <div class="col-md-3 col-sm-6 col-xs-12 borda">
                         <a class="imagem" href="#"
                            data-image-id=""
                            data-toggle="modal"
-                           data-image="{{asset($imagens)}}"
+                           data-image="{{asset($imagen)}}"
                            data-target="#image-gallery">
-                            <img id="" class="img-responsive img-thumbnail" src="{{asset($imagens)}}"/>
+                            <img id="" class="img-responsive img-thumbnail" src="{{asset($imagen)}}"/>
                             {{--<span class="overlay"><i class="glyphicon glyphicon-fullscreen"></i></span>--}}
                         </a>
                     </div>
