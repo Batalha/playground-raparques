@@ -14,7 +14,7 @@
                     <li data-target="#carousel" data-slide-to="2"></li>
                     <li data-target="#carousel" data-slide-to="3"></li>
                 </ol>
-                <div class="carousel-inner" role="listbox" data-ride="carousel" style="height: 500px;">
+                <div class="carousel-inner" role="listbox" data-ride="carousel" style="height: 900px;">
                     @foreach($imagens as $key=>$img)
                         <div class="item {{($key == 0)? 'active' :''}}"  >
                             <img src="{{asset($img)}}" alt="">

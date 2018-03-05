@@ -5,7 +5,7 @@
     @endsection
     @section('title-playground')
         <div style=" font-size: 14px;">
-            <a href="{{url('2017')}}" style="color: #0088CC;">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;Plauground
+            <a href="{{url('2017')}}" style="color: #0088CC;">Home</a>&nbsp;&nbsp;/&nbsp;&nbsp;Playground
         </div>
     @endsection
     @section('conteudo')
